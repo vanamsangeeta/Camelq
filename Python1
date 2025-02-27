@@ -1,7 +1,7 @@
 import pandas as pd
->>>>>coded added>>>>>>
+
 # Read data from a CSV file
-data = pd.read_csv('data.csv')
+data = pd.read_csv('data.csv')>>>>>>
 
 # Perform basic analysis
 mean = data['column_name'].mean()
